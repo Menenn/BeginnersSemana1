@@ -1,0 +1,48 @@
+main{
+    width: 850px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+}
+
+main h1{
+    color:violet;
+}
+
+main p{
+    font-size: 20px;
+}
+
+.botoes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: initial;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 45px;
+}
+
+.botoes p{
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin: auto;
+    margin-left: 10px;
+}
+
+#p2 {
+    margin: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#assinatura p{
+    font-size: 13px;
+    margin-left: 725px;
+}
